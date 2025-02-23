@@ -37,7 +37,6 @@ I am a **Software Engineer** at **Intellemind Technologies Pvt. Ltd.** with over
 
 ## Contact
 - **Email**: [abdurrahman489@gmail.com](mailto:abdurrahman489@gmail.com)
-- **Phone**: +91-7003700458
 - **LinkedIn**: [Abdur Rahman - LinkedIn](https://www.linkedin.com/in/abdur-rahman-143943118/)
 - **GitHub**: [Abdur Rahman - GitHub](https://github.com/abdurrahman6489)
 
